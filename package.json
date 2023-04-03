@@ -1,0 +1,23 @@
+{
+  "name": "quran-api",
+  "version": "1.0.0",
+  "description": "Al Quran Api With Bangla Translation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Md",
+    "Shirajul",
+    "Islam"
+  ],
+  "author": "Md Shirajul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.15.0"
+  }
+}
